@@ -1,4 +1,4 @@
-# Android Dev Challenge Compose - Puppy Adoption App
+# Android Dev Challenge Compose - Countdown Timer App
 
 ![Workflow result](https://github.com/noelchew/android-dev-challenge-compose-week-2/workflows/Check/badge.svg)
 
